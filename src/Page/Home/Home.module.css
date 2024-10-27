@@ -1,0 +1,7 @@
+.ContainerHome{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content:start;
+    background-color: var(--backgrond-color);
+}
